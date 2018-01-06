@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BrainfuckToGo</string>
+    <string name="titlebar">Brainfuck Interpreter</string>
+    <string name="buttonGo">EXECUTE</string>
+    <string name="errornocode">Please fill in some code!</string>
+    <string name="invalidchars">Enter only valid brainfuck operators!</string>
+    <string name="emptyoutput">/* no output from your brainfuck code */</string>
+    <string name="helloworld"><![CDATA[++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.]]></string>
+</resources>
